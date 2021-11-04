@@ -18,8 +18,8 @@ body {
   position: fixed;
   left: 0;
   right: 0;
-  background: none;
   z-index: 99;
+
   }
   .header-nav__PC{
     display: flex;
